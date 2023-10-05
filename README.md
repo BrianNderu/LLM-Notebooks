@@ -8,3 +8,5 @@ Main Notebooks include
  Text Generation using GPT2
  
  ChatBot development using Langchain &OpenAI
+
+ Using BERT and RoBERTa transformers
