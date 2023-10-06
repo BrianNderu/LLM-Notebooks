@@ -3,10 +3,10 @@ This Repo Contains notebooks on LLMS :
 
 Main Notebooks include
 
- Fine Tuning LLMs using Qlora
+   Fine Tuning LLMs using Qlora
  
- Text Generation using GPT2
+   Text Generation using GPT2
  
- ChatBot development using Langchain &OpenAI
+   ChatBot development using Langchain &OpenAI
 
- Using BERT and RoBERTa transformers
+   Using BERT and RoBERTa transformers
